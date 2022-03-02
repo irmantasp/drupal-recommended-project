@@ -28,4 +28,7 @@
 node_modules
 bower_components
 
+docker-compose.*.yml
+/docker
+
 .idea
