@@ -1,5 +1,5 @@
 {
-    "name": "drupal/recommended-project",
+    "name": "irmantasp/recommended-project",
     "description": "Project template for Drupal 9 projects with a relocated document root",
     "type": "project",
     "repositories": [
